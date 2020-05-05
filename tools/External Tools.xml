@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
-  <tool name="H2-Clean2" description="H2-Clean2" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="H2-Clean2" description="H2-Clean2" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="/usr/local/bin/ifd workspace clean-h2 &amp;" />
+      <option name="PARAMETERS" value="/usr/local/bin/ifd workspace clean-h2" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
