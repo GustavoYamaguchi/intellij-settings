@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="DockerfileApi" type="PLAIN_TEXT" />
       <mapping pattern="abcdefgh" type="PLAIN_TEXT" />
       <mapping pattern="fake-empty-manager-public-key" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
