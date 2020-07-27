@@ -18,6 +18,7 @@
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt dead_tilde" />
+    <keyboard-shortcut first-keystroke="alt dead_acute" />
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
