@@ -16,6 +16,9 @@
   <action id="EditorPreviousWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt dead_tilde" />
     <keyboard-shortcut first-keystroke="alt dead_acute" />
