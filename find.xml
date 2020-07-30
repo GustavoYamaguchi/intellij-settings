@@ -12,9 +12,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*Test.java</mask>
     <mask>*.js,*.java,!*Test.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
