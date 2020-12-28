@@ -17,7 +17,6 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="V0_19__STEPS_PK" type="SQL" />
-      <mapping ext="qrc" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
