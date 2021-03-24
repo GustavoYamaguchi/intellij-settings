@@ -14,9 +14,9 @@
     <mask>!*.js,!*.java,!*Test.java</mask>
     <mask>*.js,*.java,!*Test.java</mask>
     <mask>*.json</mask>
-    <mask>*.java</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
